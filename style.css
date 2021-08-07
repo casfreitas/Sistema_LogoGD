@@ -1,0 +1,232 @@
+
+
+
+
+.bt_logim {
+  padding: 10px 35px !important;
+}
+
+
+.bg_login {
+  background: url(assets/img/bg_login.jpg);
+  background-position: center;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
+
+.campo_bg_login {
+  text-align: right;
+
+}
+
+.campo_bg_login h1 {
+  font-size: 52px;
+  max-width: 650px;
+  color: #fff;
+  text-align: left;
+  font-weight: 600;
+  line-height: 62px;
+  display: inline-block;
+  top: 40%;
+  position: relative;
+}
+
+.form_login a {
+  color: #606062 !important;
+}
+
+
+@media screen and (max-width:1200px){
+
+  .campo_bg_login h1 {
+    font-size: 32px;
+    line-height: 40px;
+    max-width: 300px;
+
+  }
+
+}
+
+
+
+
+.form_login{
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+
+.logo_login img{
+  width: 240px;
+
+}
+
+
+
+@media screen and (max-width:576px){
+
+  .logo_login img{
+    width: 180px;
+    margin-top: 50px;
+
+  }
+
+}
+
+
+
+
+.logo_login {
+  width: 100%;
+  text-align: center;
+  
+}
+
+
+.page-item.active .page-link {
+    background-color: #F26522 !important;
+    border-color: #F26522 !important;
+}
+
+.bt_acoes {
+  padding: 0 10px !important;
+}
+
+.campo_form{
+  padding: 13px 10px !important;
+}
+
+
+.campo_form_select {
+  padding: 14px 10px 14px 10px !important;
+}
+
+.campo_form_file {
+  padding: 6px 6px !important;
+}
+
+
+.campo_form_date {
+  padding: 13px 10px 12px 10px !important;
+
+}
+
+
+.campo_form:hover, .campo_form_select:hover, .campo_form_date:hover, .campo_form_file:hover{
+  border-color: rgb(242, 101, 34) !important;
+  transition: all 0.3s ease 0s !important;
+
+}
+
+
+.campo_form:focus, .campo_form_select:focus, .campo_form_date:focus, .campo_form_file:focus{
+  border-color: rgb(242, 101, 34) !important;
+  box-shadow: rgb(242, 101, 34) 0px 0px 0px 1px !important;
+  outline: none !important;
+  transition: all 0.3s ease 0s !important;
+}
+
+
+
+
+
+
+
+
+.sider_mural input {
+  display: inline-block;
+
+}
+
+
+.campo_mail_mural {
+  transition: 0.3s;
+  
+}
+
+.cont_mail_mural:hover {
+  text-decoration: underline;
+}
+
+.campo_mail_mural a{
+  color: #1A2035;
+  display: contents;
+}
+
+.campo_mail_mural a:hover{
+  color: #1A2035;
+  text-decoration: none;
+}
+
+.tit_mail_mural {
+  font-weight: 600;
+}
+
+.setor_mail_mural {
+  color: #F26522;
+  font-size: 12px; 
+}
+
+.data_mail_mural {
+  color: #818990;
+  font-size: 12px; 
+}
+
+.cont_mail_mural p {
+  line-height: 18px;
+}
+
+
+
+.scrollbar-inner>.scroll-element.scroll-y {
+    top: 10px !important;
+    height: 100% !important;
+
+}
+
+.scrollbar-inner>.scroll-element.scroll-x {
+  width: 0 !important;
+}
+
+
+.div_cessao {
+  border-bottom: 3px solid #EBECEC;
+  width: 100%;
+  position: relative;
+}
+
+.div_cessao p{
+  font-size: 20px;
+  position: relative;
+  background: #fff;
+  display: table;
+  padding: 0 15px 0 5px;
+  margin-bottom: -17px;
+}
+
+
+
+.carossel_hear {
+  background: #F2F2F2 !important;
+
+}
+
+.carossel_hear:hover {
+  background: #FDE9DF !important;
+}
+
+
+
+.link_accordion a {
+  color: #2F2F2F;
+  transition: 0.3s;
+}
+
+.link_accordion a:hover {
+  text-decoration: none;
+}
